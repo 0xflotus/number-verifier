@@ -22,7 +22,7 @@ Messages are stored for up to 7 days.
 - [ ] Support more free providers
 - [ ] Support paid providers
 - [ ] Allow easy switching between numbers
-- [ ] Make amount of messsages shown a parameter
+- [ ] Make amount of messages shown a parameter
 - [ ] Improve message list output
 - [ ] Add native TOR support for SMS providers
 
